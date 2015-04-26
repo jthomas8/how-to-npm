@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "once": "^1.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jthomas8/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jthomas8/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jthomas8/how-to-npm#readme"
 }
